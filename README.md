@@ -12,13 +12,13 @@ Unlike conventional traffic signal systems that rely solely on fixed timers or g
 
 Project Contributors / Team Members
 
-Participant 1: [Name]
+Participant 1: Kartik Jha
 
-Participant 2: [Name]
+Participant 2: Subodh Koli
 
-Participant 3: [Name]
+Participant 3: Mayuresh Marathe
 
-Participant 4: [Name]
+Participant 4: Harish Mudaliar
 
 (You can replace the placeholders with real names or LinkedIn tags if used in a social platform)
 
