@@ -1,1 +1,69 @@
 # Smart-Traffic-Signal
+Smart Pedestrian-Aware Traffic Signal System
+Project Description
+
+This project presents an intelligent traffic signal system designed to optimize pedestrian crossing intervals using real-time computer vision analysis. The system utilizes a YOLOv8 deep learning model to detect and count pedestrians from uploaded images or video footage. Based on the detected pedestrian density, the application dynamically adjusts red-light duration to ensure safer crossings and improved traffic efficiency.
+
+The solution is implemented as an interactive Streamlit web application that allows users to upload visual data, specify road width, and define average walking speed. The application processes the visual input, calculates the optimal crossing time, and simulates the resulting signal cycle using a clear visual interface. The adaptive timing algorithm ensures that the total signal duration remains within municipal safety standards, with a default cap to prevent excessive delays in vehicular flow.
+
+Key Differentiating Aspect
+
+Unlike conventional traffic signal systems that rely solely on fixed timers or generic motion sensors, this system uses advanced object detection to identify and count only human pedestrians. It can differentiate humans from animals, vehicles, and other irrelevant entities, ensuring that signal adjustments are based on actual pedestrian presence rather than generic motion or false triggers. This significantly enhances reliability and context-aware traffic control.
+
+Project Contributors / Team Members
+
+Participant 1: [Name]
+
+Participant 2: [Name]
+
+Participant 3: [Name]
+
+Participant 4: [Name]
+
+(You can replace the placeholders with real names or LinkedIn tags if used in a social platform)
+
+Key Objectives
+
+Enhance pedestrian safety at crossings.
+
+Reduce unnecessary vehicular idle time using adaptive signaling.
+
+Demonstrate the role of AI in intelligent traffic management.
+
+Core System Features
+
+Real-time pedestrian detection using YOLOv8.
+
+Ability to differentiate humans from animals, vehicles, and other objects.
+
+Support for both image and video inputs.
+
+Adjustable parameters including road width and walking speed.
+
+Automatic timing calculation based on pedestrian count.
+
+Dynamic simulation of signal phases with clear visual feedback.
+
+Potential Real-World Applications
+
+Urban traffic signal planning
+
+Smart city infrastructure
+
+Pedestrian-dense zones (schools, markets, hospitals)
+
+Future IoT-based adaptive traffic systems
+
+Skills and Technologies Demonstrated
+
+Computer Vision and Object Detection
+
+Python Programming
+
+Streamlit Framework Development
+
+Image and Video Processing
+
+Applied Machine Learning Model Integration
+
+UI/UX Design for Simulation
