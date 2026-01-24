@@ -20,31 +20,30 @@ Participant 3: Mayuresh Marathe
 
 Participant 4: Harish Mudaliar
 
-(You can replace the placeholders with real names or LinkedIn tags if used in a social platform)
 
-Key Objectives
+Key Objectives :
 
-Enhance pedestrian safety at crossings.
+1)Enhance pedestrian safety at crossings.
 
-Reduce unnecessary vehicular idle time using adaptive signaling.
+2)Reduce unnecessary vehicular idle time using adaptive signaling.
 
-Demonstrate the role of AI in intelligent traffic management.
+3)Demonstrate the role of AI in intelligent traffic management.
 
-Core System Features
+Core System Features :
 
-Real-time pedestrian detection using YOLOv8.
+1)Real-time pedestrian detection using YOLOv8.
 
-Ability to differentiate humans from animals, vehicles, and other objects.
+2)Ability to differentiate humans from animals, vehicles, and other objects.
 
-Support for both image and video inputs.
+3)Support for both image and video inputs.
 
-Adjustable parameters including road width and walking speed.
+4)Adjustable parameters including road width and walking speed.
 
-Automatic timing calculation based on pedestrian count.
+5)Automatic timing calculation based on pedestrian count.
 
-Dynamic simulation of signal phases with clear visual feedback.
+6)Dynamic simulation of signal phases with clear visual feedback.
 
-Potential Real-World Applications
+Potential Real-World Applications :
 
 Urban traffic signal planning
 
@@ -54,7 +53,7 @@ Pedestrian-dense zones (schools, markets, hospitals)
 
 Future IoT-based adaptive traffic systems
 
-Skills and Technologies Demonstrated
+Skills and Technologies Demonstrated :
 
 Computer Vision and Object Detection
 
